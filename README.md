@@ -18,6 +18,7 @@ Next we'll look at the options provided by a cloudinary account along with confi
 - Media Library
 - Settings > Uploads > Upload Presets
 
+`Fork` and `clone` this repository to start.
 Make sure to `npm i` inside the root directory of this repo as well as within the client directory to install dependencies for both our client and API.
 - `touch .env` inside our client directory. We will need to use this four our `REACT_APP` environment variables.
 - We need 3 variables inside of our `.env`
